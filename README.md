@@ -9,6 +9,14 @@
 - Go to ARL directory\
 <code>cd ARL</code>
 
+## Download CLEVR_HYP Data ##
+
+Download Images from the following link, keep the images corresponding to Validation Set (of original CLEVR dataset)
+https://dl.fbaipublicfiles.com/clevr/CLEVR_v1.0.zip
+
+Download Action Texts and Questions (includes Train, Val, Test, 2HopAT and 2HopQH partitions) 
+https://drive.google.com/drive/folders/1mVz9-Z548LAuLGg49_zzT42ZGKs1OT7V?usp=share_link
+
 ## ImagetoScene ##
 
 Once set up, this module can take any CLEVR-style image and obtain corresponding scene graph. 
